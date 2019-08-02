@@ -42,9 +42,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.imageView:
                 Toast.makeText(this, "你的笑脸，是个不错的靶子！！！", Toast.LENGTH_SHORT).show();
-                //阿萨德南京三等奖那是你的艰难你你你
-                //大傻，放了吗第三方魔灵买咯磨平面图热门突然
-                //腐恶维护费华为偶就为了
                 break;
         }
     }

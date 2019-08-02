@@ -19,7 +19,9 @@ public class MainActivity extends AppCompatActivity {
     Button mButton;
     @BindView(R.id.imageView)
     ImageView mImageView;
-
+//个我科技股份是个集散地偶发脚手架迪欧放假
+    //阿萨德没看见爱上那肯定纳斯
+    //第三方，开始的米粉卡没收到
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
